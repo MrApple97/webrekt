@@ -1,25 +1,45 @@
 body {
     background-color: #fff;
+	margin:0px;
+	padding:0px;
 		
 }
 a:link{
-	color: #05c;
+	font-family: "Futura";
+	font-size: 50px;
+	color: #fff;
 }
 a:visited{
-	color: #1f7cff;
+	color: #fff;
 }
 a:hover{
-	color: #3df9ff;
+	color:#000;
 }
-a:active{
-	color: #05cfd6;
-}
-
 h1{
+	font-family: "Futura";
 	text-align: center;
 	/*Underline 2.0*/
-	border-bottom: 1px dotted;
+	border-bottom: 1px solid;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	word-spacing: 10px;
+}
+#topNav{
+	background: #586af9;
+}
+li{
+	display: inline-block;
+	background:#586af9;
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:-2px;
+	margin-right:-2px;
+}
+li:hover{
+	background:#fff; 
+}
+#content{
+	top-margin:100px;
 }
