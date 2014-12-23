@@ -18,7 +18,7 @@ a:active{
 h1{
 	text-align: center;
 	/*Underline 2.0*/
-	border-bottom: 1px solid;
+	border-bottom: 1px dotted;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	word-spacing: 10px;
