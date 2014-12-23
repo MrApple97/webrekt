@@ -1,5 +1,5 @@
 <head>
-<title>Kontakt | GetRekt</title>
+<title>Kontakt | WebRekt</title>
 <link rel="stylesheet" type="text/css" href=<?php echo "\"$MAIN_STYLE\""?>>
 </head>
 <body>
