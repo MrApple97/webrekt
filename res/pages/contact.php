@@ -6,12 +6,14 @@
 <?php
 	require $TEMPLATES . "topnav.php";
 ?>
-<p>
+<div class="paragraph">
 	<h1>Kontakt/Impressum</h1>
+	<p>
 	WebRekt Solutions<br>
 	Tewberkstraße 17<br>
 	31375 Betkrew<br><br>
 	E-Mail: webrekt@gmail.com<br>
 	Tel: 03137/855634
 </p>
+</div>
 </body>
