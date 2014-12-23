@@ -1,3 +1,4 @@
 <?php
-    phpinfo();
-    ?>
+    	$kaka = 33434;
+	echo $kaka;
+?>
