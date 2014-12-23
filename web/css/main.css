@@ -2,17 +2,18 @@ body {
     background-color: #fff;
 	margin:0px;
 	padding:0px;
+	
 		
 }
-a:link{
+#topNav a:link{
 	font-family: "Futura";
 	font-size: 50px;
 	color: #fff;
 }
-a:visited{
+#topNav a:visited{
 	color: #fff;
 }
-a:hover{
+#topNav a:hover{
 	color:#000;
 }
 h1{
@@ -24,10 +25,17 @@ h1{
 	letter-spacing: 2px;
 	word-spacing: 10px;
 }
+h2{
+	margin-left:10px;
+	font-family: "Futura";
+	text-align: left;
+	font-size:18px;
+	color: #586af9;
+}
 #topNav{
 	background: #586af9;
 }
-li{
+#topNav li{
 	display: inline-block;
 	background:#586af9;
 	padding-left:7px;
@@ -37,9 +45,20 @@ li{
 	margin-left:-2px;
 	margin-right:-2px;
 }
-li:hover{
+.paragraph ul{
+	list-style-type:none;
+}
+.paragraph li{
+	color:#586af9;
+}
+#topNav li:hover{
 	background:#fff; 
 }
 #content{
 	top-margin:100px;
+	width:800px;
+}
+#content p{
+	margin-left:10px;
+	font-size:16px;
 }
