@@ -1,6 +1,6 @@
 <?php
 
-$root = $_SERVER['DOCUMENT_ROOT'] . "/xampp/webrekt";
+$root = $_SERVER['DOCUMENT_ROOT'] . "/webrekt";
 
 $MAIN_STYLE = $root . "/web/css/main.css";
 
