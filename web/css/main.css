@@ -1,8 +1,25 @@
 body {
-    background-color: #b0c4de;
-	background-image: url("snow.gif");
-	
-	a:link{
-		color: #085dd4;
-	}
+    background-color: #fff;
+		
+}
+a:link{
+	color: #05c;
+}
+a:visited{
+	color: #1f7cff;
+}
+a:hover{
+	color: #3df9ff;
+}
+a:active{
+	color: #05cfd6;
+}
+
+h1{
+	text-align: center;
+	/*Underline 2.0*/
+	border-bottom: 1px solid;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	word-spacing: 10px;
 }
