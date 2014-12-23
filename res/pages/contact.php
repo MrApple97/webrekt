@@ -6,6 +6,7 @@
 <?php
 	require $TEMPLATES . "topnav.php";
 ?>
+<div id="content">
 <div class="paragraph">
 	<h1>Kontakt/Impressum</h1>
 	<p>
@@ -15,5 +16,6 @@
 	E-Mail: webrekt@gmail.com<br>
 	Tel: 03137/855634
 </p>
+</div>
 </div>
 </body>
