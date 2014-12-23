@@ -2,7 +2,7 @@
 
 $ROOT = $_SERVER['DOCUMENT_ROOT'] . "/webrekt";
 
-$MAIN_STYLE = $ROOT . "/web/css/main.css";
+$MAIN_STYLE = "/webrekt/web/css/main.css";
 
 $PAGES = array(
 	"home" => $ROOT . "/res/pages/home.php", 
