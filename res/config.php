@@ -1,12 +1,12 @@
 <?php
 
-$root = $_SERVER['DOCUMENT_ROOT'] . "/webrekt";
+$ROOT = $_SERVER['DOCUMENT_ROOT'] . "/webrekt";
 
-$MAIN_STYLE = $root . "/web/css/main.css";
+$MAIN_STYLE = $ROOT . "/web/css/main.css";
 
 $PAGES = array(
-	"home" => $root . "/res/pages/home.php", 
-	"contact" => $root . "/res/pages/contact.php"
+	"home" => $ROOT . "/res/pages/home.php", 
+	"contact" => $ROOT . "/res/pages/contact.php"
 );
 
 ?>
